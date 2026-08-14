@@ -1,4 +1,4 @@
-# SPDM: Structure-Preserving Diffusion Model for Point Cloud Upsampling
+# SPDM: A Structure-Preserving Diffusion Model for Point Cloud Upsampling
 
 This repository provides the core implementation of **SPDM**, a diffusion-based framework for point cloud upsampling. SPDM is designed to improve structural preservation during progressive denoising by introducing density-aware geometric priors and sustained cross-branch feature interaction.
 
